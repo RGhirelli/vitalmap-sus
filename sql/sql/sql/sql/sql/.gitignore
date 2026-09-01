@@ -1,0 +1,8 @@
+.env
+wallet/
+*.pem
+*.key
+*.parquet
+*.csv
+__pycache__/
+*.pyc
